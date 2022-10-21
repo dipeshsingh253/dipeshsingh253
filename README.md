@@ -1,3 +1,8 @@
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<p align='center'>
+
+<div align="center">I'm a computer enthusiast 💻 . I love creating websites and I love to explore emerging web technologies. I'm skilled in Java Technologies like JPA, Hibernate, and Spring Tools and I'm trained in SQL. I've built some cool projects. Do check them out. Apart from coding, I love reading books 📚 , listening to music 🎵 , and playing video games 🎮 . I  💗 talking about creative coding, so don't hesitate to reach out.</div>  
+
 
 # 💫 About Me:
 <br><br>🔭 I’m currently working on Personal Portfolio<br><br/>
@@ -46,7 +51,7 @@
 [![](https://komarev.com/ghpvc/?username=dipeshsingh253&&style=flat-square)](https://visitcount.itsvg.in)
 
 
-<div align="center">I'm a computer enthusiast 💻 . I love creating websites and I love to explore emerging web technologies. I'm skilled in Java Technologies like JPA, Hibernate, and Spring Tools and I'm trained in SQL. I've built some cool projects. Do check them out. Apart from coding, I love reading books 📚 , listening to music 🎵 , and playing video games 🎮 . I  💗 talking about creative coding, so don't hesitate to reach out.</div>  
+
   
 
 <br/>  
