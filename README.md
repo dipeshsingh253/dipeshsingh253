@@ -1,3 +1,4 @@
+
 # 💫 About Me:
 <br><br>🔭 I’m currently working on Personal Portfolio<br><br/>
 🌱 I’m currently learning JAVA Tools<br>👨‍<br/>
@@ -45,34 +46,21 @@
 [![](https://komarev.com/ghpvc/?username=dipeshsingh253&&style=flat-square)](https://visitcount.itsvg.in)
 
 
-
-### <div align="center">I'm a computer enthusiast 💻 . I love creating websites and I love to explore emerging web technologies. I'm skilled in Java Technologies like JPA, Hibernate, and Spring Tools and I'm trained in SQL. I've built some cool projects. Do check them out. Apart from coding, I love reading books 📚 , listening to music 🎵 , and playing video games 🎮 . I  💗 talking about creative coding, so don't hesitate to reach out.</div>  
-  
+<div align="center">I'm a computer enthusiast 💻 . I love creating websites and I love to explore emerging web technologies. I'm skilled in Java Technologies like JPA, Hibernate, and Spring Tools and I'm trained in SQL. I've built some cool projects. Do check them out. Apart from coding, I love reading books 📚 , listening to music 🎵 , and playing video games 🎮 . I  💗 talking about creative coding, so don't hesitate to reach out.</div>  
   
 
 <br/>  
-## Github Stats  
 
+### Music is the only thing I’ve ever known that doesn’t have any rules at all.
+<hr>
 
-
-<div align="center" display = "flex"><img src="https://github-readme-stats.vercel.app/api?username=dipeshsingh253&show_icons=true&count_private=true&hide_border=true" /></div>  
-
-
-<br/>  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31yslkwzd5uobil66pkxkiwjq2ea&cover_image=true&theme=default&show_offline=false" /></div>  
-
-<br/>  
+<br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=dipeshsingh253&&style=flat-square" align="center" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31yslkwzd5uobil66pkxkiwjq2ea&cover_image=true&theme=default&show_offline=false" />
 </div>  
-  
 
 <br/>  
-
 
 <br />
 
