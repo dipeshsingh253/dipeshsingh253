@@ -84,9 +84,16 @@
 
 <br/>  
 
+![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Rohit+Kumar!;Learning+Java+Back-end+Development...👨🏻‍💻;" style="width: 100%;">
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dipeshsingh253&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+
+
+<div align="center" display = "flex"><img src="https://github-readme-stats.vercel.app/api?username=dipeshsingh253&show_icons=true&count_private=true&hide_border=true" /></div>  
+
 
 <br/>  
 
