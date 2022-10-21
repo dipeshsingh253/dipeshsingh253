@@ -1,5 +1,8 @@
+<div align="center">
+<img src="https://www.lambdatest.com/resources/images/news24.gif" align="center" style="width: 100%" />
+</div>  
+
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<p align='center'>
 
 <div align="center">I'm a computer enthusiast 💻 . I love creating websites and I love to explore emerging web technologies. I'm skilled in Java Technologies like JPA, Hibernate, and Spring Tools and I'm trained in SQL. I've built some cool projects. Do check them out. Apart from coding, I love reading books 📚 , listening to music 🎵 , and playing video games 🎮 . I  💗 talking about creative coding, so don't hesitate to reach out.</div>  
 
@@ -47,8 +50,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dipeshsingh253&icon=0&color=0)](https://visitcount.itsvg.in)
-[![](https://komarev.com/ghpvc/?username=dipeshsingh253&&style=flat-square)](https://visitcount.itsvg.in)
+
 
 
 
@@ -68,5 +70,8 @@
 <br/>  
 
 <br />
+
+
+[![](https://visitcount.itsvg.in/api?id=dipeshsingh253&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 ----
