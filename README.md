@@ -10,15 +10,16 @@
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 
-<div align="center">I'm a computer enthusiast 💻 . I love creating websites and I love to explore emerging web technologies. I'm skilled in Java Technologies like JPA, Hibernate, and Spring Tools and I'm trained in SQL. I've built some cool projects. Do check them out. Apart from coding, I love reading books 📚 , listening to music 🎵 , and playing video games 🎮 . I  💗 talking about creative coding, so don't hesitate to reach out.</div>  
+### <div align="center">I'm a computer enthusiast 💻 . I love creating websites and I love to explore emerging web technologies. I'm skilled in Java Technologies like JPA, Hibernate, and Spring Tools and I'm trained in SQL. I've built some cool projects. Do check them out. Apart from coding, I love reading books 📚 , listening to music 🎵 , and playing video games 🎮 . I  💗 talking about creative coding, so don't hesitate to reach out.</div>  
 
 
 # 💫 About Me:
-<br><br>🔭 I’m currently working on Personal Portfolio<br><br/>
-🌱 I’m currently learning JAVA Tools<br>👨‍<br/>
-💻 All of my projects are available at My Portfolio<br><br/>
-❓ Ask me about anything related to JAVA and related technologies<br><br/>
-⚡ Fun fact: Linux is my primary os<br><br/>
+<br><br>
+### - 🔭 I’m currently working on Personal Portfolio<br><br/>
+### - 🌱 I’m currently learning JAVA Tools<br>👨‍<br/>
+### - 💻 All of my projects are available at <a href="https://dipeshsingh253.github.io/"> My Portfolio </a><br><br/>
+### - ❓ Ask me about anything related to JAVA and related technologies<br><br/>
+### - ⚡ Fun fact: Linux is my primary os<br><br/>
 
 
 ## 🌐 Connect with me :
@@ -45,6 +46,7 @@
 
 # 📊 GitHub Stats:
 
+<!--
 [![Dipesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipeshsingh253&count_private=true&show_icons=true&&theme=gotham&include_all_commits=true)](https://github.com/dipeshsingh253/github-readme-stats)
 
 <br/>
@@ -54,6 +56,17 @@
 <br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dipeshsingh253&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+-->
+
+<p align="center">
+  <a href="https://github.com/dipeshsingh253">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=dipeshsingh253&count_private=true&show_icons=true&&theme=gotham&include_all_commits=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=dipeshsingh253&theme=gotham&hide_border=false" />
+  </a>
+</p>
+
+![](https://activity-graph.herokuapp.com/graph?username=dipeshsingh253&theme=gotham&line=bf17fd&point=38b7ab&area=true&hide_border=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dipeshsingh253&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
@@ -65,8 +78,6 @@
 
 
 
-
-  
 
 <br/>  
 
