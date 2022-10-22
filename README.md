@@ -60,14 +60,13 @@
 -->
 <br/>
   
+
 <p align="center">
   <a href="https://github.com/dipeshsingh253">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=dipeshsingh253&count_private=true&show_icons=true&&theme=gotham&include_all_commits=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=dipeshsingh253&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=dipeshsingh253&theme=gotham&hide_border=false" />
   </a>
 </p>
-
-
   
   <img src="https://activity-graph.herokuapp.com/graph?username=dipeshsingh253&theme=gotham&line=bf17fd&point=38b7ab&area=true&hide_border=false" />
   <br/>  
