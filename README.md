@@ -26,7 +26,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipesh-singh253) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Similar_Wall_6861) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dipeshSingh_253) 
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -44,7 +44,7 @@
 ![Git](https://img.shields.io/badge/Git-FF5733.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <!--
 [![Dipesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipeshsingh253&count_private=true&show_icons=true&&theme=gotham&include_all_commits=true)](https://github.com/dipeshsingh253/github-readme-stats)
@@ -58,7 +58,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dipeshsingh253&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 -->
-
+<br/>
+  
 <p align="center">
   <a href="https://github.com/dipeshsingh253">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=dipeshsingh253&count_private=true&show_icons=true&&theme=gotham&include_all_commits=true" />
@@ -66,35 +67,31 @@
   </a>
 </p>
 
-![](https://activity-graph.herokuapp.com/graph?username=dipeshsingh253&theme=gotham&line=bf17fd&point=38b7ab&area=true&hide_border=false)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dipeshsingh253&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+  
+  <img src="https://activity-graph.herokuapp.com/graph?username=dipeshsingh253&theme=gotham&line=bf17fd&point=38b7ab&area=true&hide_border=false" />
+  <br/>  
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## ✍️ Random Dev Quote
+  
+<br/>
+<div align="center">
 
----
-
-
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  </div>
 
 <br/>  
 
-### Music is the only thing I’ve ever known that doesn’t have any rules at all.
-<hr>
+## 🎶 Music is the only thing I’ve ever known that doesn’t have any rules at all.
 
 <br/>
 
 <div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31yslkwzd5uobil66pkxkiwjq2ea&cover_image=true&theme=default&show_offline=false" />
-</div>  
-
-<br/>  
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31yslkwzd5uobil66pkxkiwjq2ea&cover_image=true&theme=default&show_offline=false"/>
+</div>   
 
 <br />
 
 
 [![](https://visitcount.itsvg.in/api?id=dipeshsingh253&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
-----
