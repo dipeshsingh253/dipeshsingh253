@@ -80,7 +80,7 @@
   </div>
 
 <br/>  
-
+<!--
 ## 🎶 Music is the only thing I’ve ever known that doesn’t have any rules at all.
 
 <br/>
@@ -90,7 +90,7 @@
 </div>   
 
 <br />
-
+-->
 
 [![](https://visitcount.itsvg.in/api?id=dipeshsingh253&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
