@@ -18,6 +18,7 @@
 ### - 🔭 I’m currently working on Personal Portfolio<br><br/>
 ### - 🌱 I’m currently learning JAVA Tools<br>👨‍<br/>
 ### - 💻 All of my projects are available at <a href="https://dipeshsingh253.github.io/"> My Portfolio </a><br><br/>
+### - 💻 Find my resume at <a href="https://drive.google.com/file/d/14RAXZV6gs-0wg2ZfMfqDbH-EHHMlFMdC/view?usp=sharing"> My Resume </a><br><br/>
 ### - ❓ Ask me about anything related to JAVA and related technologies<br><br/>
 ### - ⚡ Fun fact: Linux is my primary os<br><br/>
 
