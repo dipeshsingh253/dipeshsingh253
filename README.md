@@ -48,6 +48,8 @@
 ## 📊 GitHub Stats:
 
 <!--
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipeshsingh253)](https://github.com/anuraghazra/github-readme-stats)
 [![Dipesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipeshsingh253&count_private=true&show_icons=true&&theme=gotham&include_all_commits=true)](https://github.com/dipeshsingh253/github-readme-stats)
 
 <br/>
@@ -60,11 +62,11 @@
 
 -->
 <br/>
-  
+ 
 
 <p align="center">
   <a href="https://github.com/dipeshsingh253">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=dipeshsingh253&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=dipeshsingh253&theme=gotham&count_private=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=dipeshsingh253&theme=gotham&hide_border=false" />
   </a>
 </p>
