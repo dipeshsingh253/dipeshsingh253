@@ -70,11 +70,15 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=dipeshsingh253&theme=gotham&hide_border=false" />
   </a>
 </p>
-  
+ 
+ 
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dipeshsingh253&theme=gotham&hide_border=false" />
+  <!--
   <img src="https://activity-graph.herokuapp.com/graph?username=dipeshsingh253&theme=gotham&line=bf17fd&point=38b7ab&area=true&hide_border=false" />
   <br/>  
-
-## ✍️ Random Dev Quote
+-->
+ 
+##  ✍️ Random Dev Quote
   
 <br/>
 <div align="center">
