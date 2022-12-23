@@ -15,8 +15,8 @@
 
 # 💫 About Me:
 <br><br>
-### - 🔭 I’m currently working on Spring Security<br><br/>
-### - 🌱 I’m currently learning JAVA Tools
+### - 🔭 I’m currently working on Skillup Learing Management System<br><br/>
+### - 🌱 I’m currently learning JAVA Tools<br><br/>
 ### - 💻 All of my projects are available at <a href="https://dipeshsingh253.github.io/"> My Portfolio </a><br><br/>
 ### - 💻 Find my resume at <a href="https://drive.google.com/file/d/14RAXZV6gs-0wg2ZfMfqDbH-EHHMlFMdC/view?usp=sharing"> My Resume </a><br><br/>
 ### - ❓ Ask me about anything related to JAVA and related technologies<br><br/>
@@ -43,7 +43,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FF9900.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FF5733.svg?style=for-the-badge&logo=git&logoColor=white)
-
+![React](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=#00C7B7) 
 
 ## 📊 GitHub Stats:
 
