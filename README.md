@@ -3,14 +3,15 @@
 <div align="center">
 <img src="https://www.lambdatest.com/resources/images/news24.gif" align="center" style="width: 100%" />
 </div>  
--->
+
 <div align="center">
 <img src="https://media.tenor.com/HYb5ETTGZDAAAAAC/tony-stark-coding-tony-stark.gif" align="center" style="width: 100%" />
 </div>  
+-->
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 
-### <div align="center">I'm a computer enthusiast 💻 . I love creating websites and I love to explore emerging web technologies. I'm skilled in Java Technologies like JPA, Hibernate, and Spring Tools and I'm trained in SQL. I've built some cool projects. Do check them out. Apart from coding, I love reading books 📚 , listening to music 🎵 , and playing video games 🎮 . I  💗 talking about creative coding, so don't hesitate to reach out.</div>  
+### <div align="center">I'm a computer enthusiast 💻 . I love creating websites and I love to explore emerging web technologies. I'm skilled in Java Technologies like JPA, Hibernate, and Spring Tools and I'm trained in SQL. I've built some cool projects. Do check them out. Apart from coding, I love reading books 📚 , listening to music 🎵 , and watching animes. I  💗 talking about creative coding, so don't hesitate to reach out.</div>  
 
 
 # 💫 About Me:
@@ -66,7 +67,7 @@
 
 <p align="center">
   <a href="https://github.com/dipeshsingh253">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=dipeshsingh253&theme=gotham&count_private=true" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=dipeshsingh253&theme=gotham&count_private=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=dipeshsingh253&theme=gotham&hide_border=false" />
   </a>
 </p>
