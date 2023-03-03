@@ -20,7 +20,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipesh-singh253)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Similar_Wall_6861)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dipeshSingh_253)
-[![Email](https://img.shields.io/badge/Mail-%231DA1F2.svg?logo=Gmail&logoColor=white&color=ff0000)](sinhdipesh@gmail.com)
+[![Email](https://img.shields.io/badge/Mail-%231DA1F2.svg?logo=Gmail&logoColor=white&color=ff0000)](mailto:sinhdipesh@gmail.com)
 
 
 ## 💻 Tech Stack:
