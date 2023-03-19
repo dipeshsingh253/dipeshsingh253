@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-### - 🔭 I’m currently working on Skillup Learing Management System<br>
+### - 🔭 I’m currently working on A Fullstack Blog Application<br>
 ### - 🌱 I’m currently learning JAVA Tools<br>
 ### - 💻 All of my projects are available at <a href="https://dipeshsingh253.github.io/"> My Portfolio </a><br>
 ### - 💻 Find my resume at <a href="https://drive.google.com/file/d/14RAXZV6gs-0wg2ZfMfqDbH-EHHMlFMdC/view?usp=sharing"> My Resume </a><br>
