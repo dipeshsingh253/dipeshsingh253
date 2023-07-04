@@ -52,9 +52,7 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=dipeshsingh253&theme=gotham&hide_border=false" />
   </a>
 </p>
- 
- 
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dipeshsingh253&theme=gotham&hide_border=false" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipeshsingh253&theme=gotham&hide_border=false" />
  
 ##  ✍️ Random Dev Quote
   
