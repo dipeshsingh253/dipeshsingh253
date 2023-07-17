@@ -50,14 +50,15 @@
 
 <br>
  
-<p align="center">
-  <a href="https://github.com/dipeshsingh253">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=dipeshsingh253&theme=gotham&count_private=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=dipeshsingh253&theme=gotham&hide_border=false" />
-  </a>
-</p>
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 50px;">
+ <div style="display: flex; flex-direction: column; gap: 50px">
+   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=dipeshsingh253&theme=gotham&count_private=true" />
+   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=dipeshsingh253&theme=gotham&hide_border=false" />
+ </div>
+
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipeshsingh253&theme=gotham&hide_border=false" />
  
+</div>
 ##  ✍️ Random Dev Quote
   
 <br/>
