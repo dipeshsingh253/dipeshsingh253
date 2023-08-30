@@ -1,32 +1,48 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 
+
+Hello, world! 🌎 I'm [Dipesh Singh](https://github.com/dipeshsingh253/), a coding enthusiast and lifelong learner 🚀.
+
+From building interactive websites that tell stories 📖, to tinkering with algorithms like a digital puzzle solver 🧩, I find joy in the art of coding. Exploring the realms of data science, web development, and beyond, I believe that every line of code has the potential to shape the future 🌟.
+
+Let's create something extraordinary, one line of code at a time!
+
+<br>
+
+
+## 💫 More about Me:
+
+ - 🔭 &nbsp; I’m currently working on ![StaffInsight : Employee Management](https://github.com/dipeshsingh253/StaffInsight-Employee-Management-System)<br>
+ - 🌱 &nbsp; I’m currently learning Angular <br>
+ - 💻 &nbsp; All of my projects are available at ![My Github](https://github.com/dipeshsingh253/) <br>
+ - ❓ &nbsp; Ask me about anything related to Programming, DSA and Linux <br>
+ - ⚡ &nbsp; Fun fact: HTML is not a programming language <br>
+ - 📧 &nbsp; Want to connect with me ? ![Here you go !!!](#-connect-with-me-)
+
+<br>
+
+## My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 🐧 &nbsp; Breaking my setup and rebuilding it whenever possible. Linux is quite fun !!!
+- 🍕 &nbsp; Hackathons, meetups & tech events.
+
+<br>
+
+## 🔨 Languages and Tools:
+
+<a href="https://html5.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/dipeshsingh253/Readme_Icons/main/language_and_tools/square/html/html.svg" alt="html" height="42px"/> </a> 
+<a href="https://css3.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/dipeshsingh253/Readme_Icons/main/language_and_tools/square/css/css.svg" alt="css" height="42px"/> </a> 
+<a href="https://www.javascript.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/dipeshsingh253/Readme_Icons/main/language_and_tools/square/javascript/javascript.svg" alt="javascript" height="42px"/> </a> 
+<a href="https://nodejs.org/en" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/dipeshsingh253/Readme_Icons/main/language_and_tools/square/node/node.svg" alt="nodejs" height="42px"/> </a> 
+<a href="https://react.dev/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/dipeshsingh253/Readme_Icons/main/language_and_tools/square/react/react.svg" alt="react" height="42px"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/dipeshsingh253/Readme_Icons/main/language_and_tools/square/typescript/typescript.svg" alt="typescript" height="42px"/> </a> 
+<a href="https://java.com/en" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/dipeshsingh253/Readme_Icons/main/language_and_tools/square/java/java.svg" alt="java" height="42px"/> </a> 
+<a href="https://spring.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/dipeshsingh253/Readme_Icons/main/language_and_tools/square/spring/spring.svg" alt="spring" height="42px"/> </a> 
+<a href="https://kafka.apache.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/dipeshsingh253/Readme_Icons/main/language_and_tools/square/kaafka/kaafka.svg" alt="kafka" height="42px"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/dipeshsingh253/Readme_Icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" height="42px"/> </a> 
+<a href="https://www.linux.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/dipeshsingh253/Readme_Icons/main/language_and_tools/square/linux/linux.svg" alt="linux" height="42px"/> </a> 
 <!--
-### <div align="center">I'm a computer enthusiast 💻 . I love creating websites and I love to explore emerging web technologies. I'm skilled in Java Technologies like JPA, Hibernate, and Spring Tools and I'm trained in SQL. I've built some cool projects. Do check them out. Apart from coding, I love reading books 📚 , listening to music 🎵 , and watching animes. I  💗 talking about creative coding, so don't hesitate to reach out.</div>  
--->
-
-### Welcome to my world of coding and creativity! 👨‍💻 I'm a passionate Java Spring developer, continuously exploring the realms of technology to build extraordinary web experiences. 🔥 With a solid foundation in Spring, Spring Boot, Spring Data, and Spring Cloud, I craft robust and scalable applications that push boundaries. 🌟 From MongoDB to MySQL and MariaDB, I have a knack for harnessing the power of databases to optimize performance and deliver exceptional results. 💪 When I'm not coding, you'll find me immersed in captivating books 📚, grooving to music 🎧, or indulging in the captivating world of anime. Remember, the code you write today can change the world tomorrow! 🌍💻 So, let's write code, create magic, and make dreams come true! ✨✨ Let's unleash the power of 🚀 technology and transform ideas into reality! 💡💪
-
-<br>
-
-# 💫 About Me:
-
-### - 🔭 I’m currently working on A Fullstack Blog Application<br>
-### - 🌱 I’m currently learning JAVA Tools<br>
-### - 💻 All of my projects are available at <a href="https://dipeshsingh253.github.io/"> My Portfolio </a><br>
-### - 💻 Find my resume at <a href="https://drive.google.com/file/d/14RAXZV6gs-0wg2ZfMfqDbH-EHHMlFMdC/view?usp=sharing"> My Resume </a><br>
-### - ❓ Ask me about anything related to JAVA and related technologies<br>
-### - ⚡ Fun fact: Linux is my primary os<br>
-
-<br>
-
-## 🌐 Connect with me :
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipesh-singh253)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Similar_Wall_6861)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dipeshSingh_253)
-[![Email](https://img.shields.io/badge/Mail-%231DA1F2.svg?logo=Gmail&logoColor=white&color=ff0000)](mailto:sinhdipesh@gmail.com)
-
-
 ## 💻 Tech Stack:
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -45,9 +61,14 @@
 ![Linux](https://img.shields.io/badge/Linux-%23FF9900.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FF5733.svg?style=for-the-badge&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=#00C7B7) 
+-->
 
-## 📊 GitHub Stats:
 
+<br>
+
+## 
+
+<br>
 <br>
  
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 50px;">
@@ -61,15 +82,17 @@
  ![](./profile-3d-contrib/profile-night-green.svg)
 </div>
 
-## ✍️ Random Dev Quote
-  
-<br/>
-<div align="center">
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-  </div>
+##
 
-<br/>  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/dipeshsingh253/)
+
 
 [![](https://visitcount.itsvg.in/api?id=dipeshsingh253&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
+<!--
+## अद्यतनकल्पना श्वः यथार्थः एव
+
+"अद्यतनकल्पना श्वः यथार्थः एव" translates to "Today's imagination is tomorrow's reality" in Sanskrit. Embrace your visions and turn them into the truth of tomorrow.
+
+-->
