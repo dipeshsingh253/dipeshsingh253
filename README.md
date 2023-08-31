@@ -6,6 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/dipeshSingh_253)
 [![Discord Badge](https://img.shields.io/badge/-Discord-0088cc?style=flat-square&logo=Discord&logoColor=white&color=blueviolet)](http://discordapp.com/users/849913360144400404)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-0088cc?style=flat-square&logo=Gmail&logoColor=white&color=red)](mailto:sinhdipesh@gmail.com)
+[![Leetcode Badge](https://img.shields.io/badge/-Leetcode-0088cc?style=flat-square&logo=Leetcode&logoColor=white&color=brown)](https://leetcode.com/sinhdipesh/)
 [![Visitor Badge](https://visitcount.itsvg.in/api?id=dipeshsingh253&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 <br>
 
