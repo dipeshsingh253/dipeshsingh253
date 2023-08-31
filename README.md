@@ -19,12 +19,11 @@ Let's create something extraordinary, one line of code at a time!
 
 ## 💫 More About Me:
 
- - 🔭 &nbsp; I’m currently working on  ![StaffInsight : Employee Management](https://github.com/dipeshsingh253/StaffInsight-Employee-Management-System)<br>
- - 🌱 &nbsp; I’m currently learning Angular <br>
- - 💻 &nbsp; All of my projects are available at ![My Github](https://github.com/dipeshsingh253/) <br>
- - ❓ &nbsp; Ask me about anything related to Programming, DSA and Linux <br>
- - ⚡ &nbsp; Fun fact: HTML is not a programming language <br>
- - 📧 &nbsp; Want to connect with me ? ![Here you go !!!](#-connect-with-me-)
+ - 🔭 &nbsp; I’m currently working on **<a href="https://github.com/dipeshsingh253/StaffInsight-Employee-Management-System" target="_blank">StaffInsight : Employee Management System</a>**
+ - 💻 &nbsp; All of my projects are available at **<a href="https://github.com/dipeshsingh253/" target="_blank">My Github</a>**
+ - ❓ &nbsp; Ask me about anything related to Programming, DSA and Linux
+ - ⚡ &nbsp; Fun fact: HTML is not a programming language
+ - 📧 &nbsp; Want to connect with me ? **<a href="https://dipeshsingh253.github.io/#contact" target="_blank">Here you go !!!</a>**
 
 <br>
 
