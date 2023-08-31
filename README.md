@@ -1,11 +1,12 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
- 
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dipesh-singh253/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://dipeshsingh253.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/dipeshSingh_253)
 [![Discord Badge](https://img.shields.io/badge/-Discord-0088cc?style=flat-square&logo=Discord&logoColor=white&color=blueviolet)](http://discordapp.com/users/849913360144400404)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-0088cc?style=flat-square&logo=Gmail&logoColor=white&color=red)](mailto:sinhdipesh@gmail.com)
-
+[![Visitor Badge](https://visitcount.itsvg.in/api?id=dipeshsingh253&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 <br>
 
 Hello, world! 🌎 I'm [Dipesh Singh](https://github.com/dipeshsingh253/), a coding enthusiast and lifelong learner 🚀.
@@ -40,22 +41,18 @@ Let's create something extraordinary, one line of code at a time!
 
 ### Languages
 
-[![Frameworks](https://skillicons.dev/icons?i=js,html,css,java,bash,sql)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,html,css,java,bash,sql&perline=6)](https://skillicons.dev)
 
 
 ### Frameworks
 
-[![Frameworks](https://skillicons.dev/icons?i=hibernate,nodejs,spring,tailwind,react,angular)](https://skillicons.dev)
-
-### Databases
-
-[![Frameworks](https://skillicons.dev/icons?i=mongodb,mysql,mariadb,oracledb)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=hibernate,nodejs,spring,tailwind,react,angular&perline=6)](https://skillicons.dev)
 
 ### Tools 
 
-[![Frameworks](https://skillicons.dev/icons?i=git,idea,kafka,linux,maven,neovim,netlify,postman,vim,vscode)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,idea,kafka,linux,maven,mongodb,mysql,neovim,netlify,postman,vim,vscode&perline=6)](https://skillicons.dev)
 
-<!-- <details> -->	
+<!-- <details> -->
    <h3>Things I use to get my stuff done</h3>
   	<ul>
    	  <li><b>OS:</b> Arch Linux</li>
@@ -64,7 +61,7 @@ Let's create something extraordinary, one line of code at a time!
  	    <li><b>Terminal: </b> ZSH: Oh My Zsh (random)</li>
  	    <li><b>Code Editor:</b> Idea and Vim/Neovim</li>
  	    <li><b>To Stay Updated:</b> Discord, Linkedin and Twitter.</li>
-	</ul>	
+	</ul>
 <!-- </details> -->
 
 <br>
@@ -97,7 +94,7 @@ Let's create something extraordinary, one line of code at a time!
  
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=dipeshsingh253&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
 
 <!--
 ## अद्यतनकल्पना श्वः यथार्थः एव
