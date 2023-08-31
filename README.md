@@ -54,7 +54,7 @@ Let's create something extraordinary, one line of code at a time!
 <br>
 <br>
 
-## Stats
+## 📈 Stats
 
 <be>
 
