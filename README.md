@@ -23,8 +23,8 @@ Let's create something extraordinary, one line of code at a time!
  - 🔭 &nbsp; I’m currently working on **<a href="https://github.com/dipeshsingh253/StaffInsight-Employee-Management-System" target="_blank">StaffInsight : Employee Management System</a>**
  - 💻 &nbsp; All of my projects are available at **<a href="https://github.com/dipeshsingh253/" target="_blank">My Github</a>**
  - ❓ &nbsp; Ask me about anything related to Programming, DSA and Linux
- - ⚡ &nbsp; Fun fact: HTML is not a programming language
- - 📧 &nbsp; Want to connect with me ? **<a href="https://dipeshsingh253.github.io/#contact" target="_blank">Here you go !!!</a>**
+ - ⚡ &nbsp; Fun fact: I use Arch btw.
+ - 📧 &nbsp; Want to connect with me? **<a href="https://dipeshsingh253.github.io/#contact" target="_blank">Here you go !!!</a>**
 
 <br>
 
@@ -36,21 +36,37 @@ Let's create something extraordinary, one line of code at a time!
 
 <br>
 
-## 🔨 Languages and Tools:
+## 🔨 My Tools:
 
-<a href="https://html5.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/dipeshsingh253/Readme_Icons/main/language_and_tools/square/html/html.svg" alt="html" height="42px"/> </a> 
-<a href="https://css3.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/dipeshsingh253/Readme_Icons/main/language_and_tools/square/css/css.svg" alt="css" height="42px"/> </a> 
-<a href="https://www.javascript.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/dipeshsingh253/Readme_Icons/main/language_and_tools/square/javascript/javascript.svg" alt="javascript" height="42px"/> </a> 
-<a href="https://nodejs.org/en" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/dipeshsingh253/Readme_Icons/main/language_and_tools/square/node/node.svg" alt="nodejs" height="42px"/> </a> 
-<a href="https://react.dev/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/dipeshsingh253/Readme_Icons/main/language_and_tools/square/react/react.svg" alt="react" height="42px"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/dipeshsingh253/Readme_Icons/main/language_and_tools/square/typescript/typescript.svg" alt="typescript" height="42px"/> </a> 
-<a href="https://java.com/en" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/dipeshsingh253/Readme_Icons/main/language_and_tools/square/java/java.svg" alt="java" height="42px"/> </a> 
-<a href="https://spring.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/dipeshsingh253/Readme_Icons/main/language_and_tools/square/spring/spring.svg" alt="spring" height="42px"/> </a> 
-<a href="https://kafka.apache.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/dipeshsingh253/Readme_Icons/main/language_and_tools/square/kaafka/kaafka.svg" alt="kafka" height="42px"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/dipeshsingh253/Readme_Icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" height="42px"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/dipeshsingh253/Readme_Icons/main/language_and_tools/square/linux/linux.svg" alt="linux" height="42px"/> </a> 
+### Languages
 
-<br>
+[![Frameworks](https://skillicons.dev/icons?i=js,html,css,java,bash,sql)](https://skillicons.dev)
+
+
+### Frameworks
+
+[![Frameworks](https://skillicons.dev/icons?i=hibernate,nodejs,spring,tailwind,react,angular)](https://skillicons.dev)
+
+### Databases
+
+[![Frameworks](https://skillicons.dev/icons?i=mongodb,mysql,mariadb,oracledb)](https://skillicons.dev)
+
+### Tools 
+
+[![Frameworks](https://skillicons.dev/icons?i=git,idea,kafka,linux,maven,neovim,netlify,postman,vim,vscode)](https://skillicons.dev)
+
+<!-- <details> -->	
+   <h3>Things I use to get my stuff done</h3>
+  	<ul>
+   	  <li><b>OS:</b> Arch Linux</li>
+ 	    <li><b>Laptop: </b> HP 15</li>
+   	  <li><b>Browser: </b> Firefox Web Browser</li>
+ 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (random)</li>
+ 	    <li><b>Code Editor:</b> Idea and Vim/Neovim</li>
+ 	    <li><b>To Stay Updated:</b> Discord, Linkedin and Twitter.</li>
+	</ul>	
+<!-- </details> -->
+
 <br>
 <br>
 
