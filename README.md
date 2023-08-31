@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dipesh-singh253/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://dipeshsingh253.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/dipeshSingh_253)
-[![Discord Badge](https://img.shields.io/badge/-Discord-0088cc?style=flat-square&logo=Discord&logoColor=white&color=blueviolet)](https://discordapp.com/users/dipeshsingh_)
+[![Discord Badge](https://img.shields.io/badge/-Discord-0088cc?style=flat-square&logo=Discord&logoColor=white&color=blueviolet)](http://discordapp.com/users/849913360144400404)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-0088cc?style=flat-square&logo=Gmail&logoColor=white&color=red)](mailto:sinhdipesh@gmail.com)
 
 <br>
