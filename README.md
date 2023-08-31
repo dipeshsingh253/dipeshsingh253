@@ -58,12 +58,12 @@ Let's create something extraordinary, one line of code at a time!
 <be>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=dipeshsingh253&theme=gotham&count_private=true" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dipeshsingh253&theme=gotham&hide_border=false" /></td>  
-  </tr>
-  <tr>
     <td><img src="https://leetcode-stats.vercel.app/api?username=sinhdipesh&theme=Dark" /></td>
     <td><img src="https://leetcard.jacoblin.cool/sinhdipesh"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=dipeshsingh253&theme=gotham&count_private=true" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dipeshsingh253&theme=gotham&hide_border=false" /></td>  
   </tr>
 </table>
 
