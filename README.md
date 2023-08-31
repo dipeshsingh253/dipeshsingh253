@@ -29,7 +29,7 @@ Let's create something extraordinary, one line of code at a time!
 
 ## My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 💻 &nbsp; I love exploring new tech stacks and building cool stuff.
 - 🐧 &nbsp; Breaking my setup and rebuilding it whenever possible. Linux is quite fun !!!
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
@@ -50,10 +50,9 @@ Let's create something extraordinary, one line of code at a time!
 <a href="https://www.linux.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/dipeshsingh253/Readme_Icons/main/language_and_tools/square/linux/linux.svg" alt="linux" height="42px"/> </a> 
 
 <br>
+<br>
+<br>
 
-<br>
-<br>
- 
 <table>
   <tr>
     <td>  <img src="https://github-readme-stats.vercel.app/api?username=dipeshsingh253&theme=gotham&count_private=true" /></td>
@@ -72,9 +71,6 @@ Let's create something extraordinary, one line of code at a time!
  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/dipeshsingh253/)
  
 </div>
-
-
-
 [![](https://visitcount.itsvg.in/api?id=dipeshsingh253&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 <!--
