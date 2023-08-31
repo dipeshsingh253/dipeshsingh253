@@ -66,10 +66,7 @@ Let's create something extraordinary, one line of code at a time!
 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipeshsingh253&theme=gotham&hide_border=false" />
 
- ![](https://leetcard.jacoblin.cool/sinhdipesh?ext=heatmap)
-
  ![](./profile-3d-contrib/profile-night-green.svg)
-
 
 ##
 
