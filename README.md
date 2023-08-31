@@ -27,7 +27,7 @@ Let's create something extraordinary, one line of code at a time!
 
 <br>
 
-## My Absolute Favorites:
+## 😄 My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stacks and building cool stuff.
 - 🐧 &nbsp; Breaking my setup and rebuilding it whenever possible. Linux is quite fun !!!
