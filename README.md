@@ -19,7 +19,7 @@ Let's create something extraordinary, one line of code at a time!
 
 ## 💫 More About Me:
 
- - 🔭 &nbsp; I’m currently working on ![StaffInsight : Employee Management](https://github.com/dipeshsingh253/StaffInsight-Employee-Management-System)<br>
+ - 🔭 &nbsp; I’m currently working on  ![StaffInsight : Employee Management](https://github.com/dipeshsingh253/StaffInsight-Employee-Management-System)<br>
  - 🌱 &nbsp; I’m currently learning Angular <br>
  - 💻 &nbsp; All of my projects are available at ![My Github](https://github.com/dipeshsingh253/) <br>
  - ❓ &nbsp; Ask me about anything related to Programming, DSA and Linux <br>
