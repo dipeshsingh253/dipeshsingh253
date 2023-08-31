@@ -19,6 +19,7 @@ Let's create something extraordinary, one line of code at a time!
 
 ## 💫 More About Me:
 
+ - 👨‍💼 &nbsp; I'm currently working as a Software Engineer at **<a href="https://logwintech.com/" target="_blank">LogwinTech</a>**
  - 🔭 &nbsp; I’m currently working on **<a href="https://github.com/dipeshsingh253/StaffInsight-Employee-Management-System" target="_blank">StaffInsight : Employee Management System</a>**
  - 💻 &nbsp; All of my projects are available at **<a href="https://github.com/dipeshsingh253/" target="_blank">My Github</a>**
  - ❓ &nbsp; Ask me about anything related to Programming, DSA and Linux
@@ -53,24 +54,31 @@ Let's create something extraordinary, one line of code at a time!
 <br>
 <br>
 
+## Stats
+<be>
 <table>
   <tr>
-    <td>  <img src="https://github-readme-stats.vercel.app/api?username=dipeshsingh253&theme=gotham&count_private=true" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=dipeshsingh253&theme=gotham&count_private=true" /></td>
+    <td><img src="https://leetcard.jacoblin.cool/sinhdipesh"/></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dipeshsingh253&theme=gotham&hide_border=false" /></td>  
   </tr>
 </table>
 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipeshsingh253&theme=gotham&hide_border=false" />
 
+ ![](https://leetcard.jacoblin.cool/sinhdipesh?ext=heatmap)
+
  ![](./profile-3d-contrib/profile-night-green.svg)
 
 
 ##
+
 <div align="center">
  
  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/dipeshsingh253/)
  
 </div>
+
 [![](https://visitcount.itsvg.in/api?id=dipeshsingh253&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 <!--
