@@ -3,7 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dipesh-singh253/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://dipeshsingh253.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/dipeshSingh_253)
-[![Discord Badge](https://img.shields.io/badge/-Discord-0088cc?style=flat-square&logo=Discord&logoColor=blueviolet&color=white)](https://discordapp.com/users/dipeshsingh_)
+[![Discord Badge](https://img.shields.io/badge/-Discord-0088cc?style=flat-square&logo=Discord&logoColor=white&color=blueviolet)](https://discordapp.com/users/dipeshsingh_)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-0088cc?style=flat-square&logo=Gmail&logoColor=white&color=red)](mailto:sinhdipesh@gmail.com)
 
 <br>
 
@@ -16,7 +17,7 @@ Let's create something extraordinary, one line of code at a time!
 <br>
 
 
-## 💫 More about Me:
+## 💫 More About Me:
 
  - 🔭 &nbsp; I’m currently working on ![StaffInsight : Employee Management](https://github.com/dipeshsingh253/StaffInsight-Employee-Management-System)<br>
  - 🌱 &nbsp; I’m currently learning Angular <br>
@@ -48,50 +49,31 @@ Let's create something extraordinary, one line of code at a time!
 <a href="https://kafka.apache.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/dipeshsingh253/Readme_Icons/main/language_and_tools/square/kaafka/kaafka.svg" alt="kafka" height="42px"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/dipeshsingh253/Readme_Icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" height="42px"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/dipeshsingh253/Readme_Icons/main/language_and_tools/square/linux/linux.svg" alt="linux" height="42px"/> </a> 
-<!--
-## 💻 Tech Stack:
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwind_css-%23000000.svg?style=for-the-badge&logo=tailwindcss&logoColor=#00C7B7)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FF9900.svg?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF5733.svg?style=for-the-badge&logo=git&logoColor=white)
-![React](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=#00C7B7) 
--->
-
 
 <br>
-
-## 
 
 <br>
 <br>
  
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 50px;">
- <div style="display: flex; flex-direction: column; gap: 50px">
-   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=dipeshsingh253&theme=gotham&count_private=true" />
-   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=dipeshsingh253&theme=gotham&hide_border=false" />
- </div>
+<table>
+  <tr>
+    <td>  <img src="https://github-readme-stats.vercel.app/api?username=dipeshsingh253&theme=gotham&count_private=true" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dipeshsingh253&theme=gotham&hide_border=false" /></td>  
+  </tr>
+</table>
 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipeshsingh253&theme=gotham&hide_border=false" />
 
  ![](./profile-3d-contrib/profile-night-green.svg)
-</div>
 
 
 ##
+<div align="center">
+ 
+ [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/dipeshsingh253/)
+ 
+</div>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/dipeshsingh253/)
 
 
 [![](https://visitcount.itsvg.in/api?id=dipeshsingh253&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
