@@ -17,7 +17,6 @@ Let's create something extraordinary, one line of code at a time!
 
 <br>
 
-
 ## 💫 More About Me:
 
  - 👨‍💼 &nbsp; I'm currently working as a Software Engineer at **<a href="https://logwintech.com/" target="_blank">LogwinTech</a>**
@@ -33,7 +32,7 @@ Let's create something extraordinary, one line of code at a time!
 
 - 💻 &nbsp; I love exploring new tech stacks and building cool stuff.
 - 🐧 &nbsp; Breaking my setup and rebuilding it whenever possible. Linux is quite fun !!!
-- 🍕 &nbsp; Hackathons, meetups & tech events.
+- ☕ &nbsp; Hackathons, meetups & tech events.
 
 <br>
 
@@ -55,16 +54,16 @@ Let's create something extraordinary, one line of code at a time!
 <!-- <details> -->
    <h3>Things I use to get my stuff done</h3>
   	<ul>
-   	  <li><b>OS:</b> Arch Linux</li>
+   	    <li><b>OS:</b> Arch Linux</li>
  	    <li><b>Laptop: </b> HP 15</li>
-   	  <li><b>Browser: </b> Firefox Web Browser</li>
- 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (random)</li>
+   	    <li><b>Browser: </b> Firefox Web Browser</li>
+ 	    <li><b>Terminal: </b> Alacritty/urxvt </li>
+	    <li><b>Shell: </b> ZSH: Oh My Zsh (random)</li>
  	    <li><b>Code Editor:</b> Idea and Vim/Neovim</li>
  	    <li><b>To Stay Updated:</b> Discord, Linkedin and Twitter.</li>
 	</ul>
 <!-- </details> -->
 
-<br>
 <br>
 
 ## 📈 Stats
