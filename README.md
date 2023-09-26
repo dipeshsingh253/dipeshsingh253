@@ -3,29 +3,13 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 
 
-<a href="https://www.linkedin.com/in/dipesh-singh253/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dipesh-singh253/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://dipeshsingh253.github.io/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/dipeshSingh_253)
+[![Discord Badge](https://img.shields.io/badge/-Discord-0088cc?style=flat-square&logo=Discord&logoColor=white&color=blueviolet)](http://discordapp.com/users/849913360144400404)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-0088cc?style=flat-square&logo=Gmail&logoColor=white&color=red)](mailto:sinhdipesh@gmail.com)
+[![Leetcode Badge](https://img.shields.io/badge/-Leetcode-0088cc?style=flat-square&logo=Leetcode&logoColor=white&color=brown)](https://leetcode.com/sinhdipesh/)
 
-<a href="https://dipeshsingh253.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="Website Badge">
-</a>
-
-<a href="https://twitter.com/dipeshSingh_253" target="_blank">
-  <img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter Badge">
-</a>
-
-<a href="http://discordapp.com/users/849913360144400404" target="_blank">
-  <img src="https://img.shields.io/badge/-Discord-0088cc?style=flat-square&logo=Discord&logoColor=white&color=blueviolet" alt="Discord Badge">
-</a>
-
-<a href="mailto:sinhdipesh@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-0088cc?style=flat-square&logo=Gmail&logoColor=white&color=red" alt="Gmail Badge">
-</a>
-
-<a href="https://leetcode.com/sinhdipesh/" target="_blank">
-  <img src="https://img.shields.io/badge/-Leetcode-0088cc?style=flat-square&logo=Leetcode&logoColor=white&color=brown" alt="Leetcode Badge" target="_blank">
-</a>
 
 
 <br>
