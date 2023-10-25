@@ -86,10 +86,6 @@ Let's create something extraordinary, one line of code at a time!
 </table>
 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipeshsingh253&theme=gotham&hide_border=false" />
-<!--
- ![](./profile-3d-contrib/profile-night-green.svg)
--->
-
 
 ##
 
@@ -98,12 +94,3 @@ Let's create something extraordinary, one line of code at a time!
  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/dipeshsingh253/)
  
 </div>
-
-
-
-<!--
-## अद्यतनकल्पना श्वः यथार्थः एव
-
-"अद्यतनकल्पना श्वः यथार्थः एव" translates to "Today's imagination is tomorrow's reality" in Sanskrit. Embrace your visions and turn them into the truth of tomorrow.
-
--->
