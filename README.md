@@ -59,9 +59,10 @@ Let's create something extraordinary, one line of code at a time!
    <h3>Things I use to get my stuff done</h3>
   	<ul>
    	    <li><b>OS:</b> Arch Linux</li>
+	    <li><b>WM: </b> KDE/Hyprland </li>
  	    <li><b>Laptop: </b> HP 15</li>
    	    <li><b>Browser: </b> Firefox / Qutebrowser</li>
- 	    <li><b>Terminal: </b> ST / Alacritty </li>
+ 	    <li><b>Terminal: </b> Kitty / Konsole </li>
 	    <li><b>Shell: </b> ZSH </li>
  	    <li><b>Code Editor:</b> Idea and Vim/Neovim</li>
  	    <li><b>To Stay Updated:</b> Discord, Linkedin and Twitter.</li>
