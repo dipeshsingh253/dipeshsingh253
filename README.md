@@ -44,7 +44,7 @@ Let's create something extraordinary, one line of code at a time!
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=js,html,css,java,bash,typescript&perline=6)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,html,css,java,bash,typescript,python,go&perline=6)](https://skillicons.dev)
 
 
 ### Frameworks
@@ -53,7 +53,7 @@ Let's create something extraordinary, one line of code at a time!
 
 ### Tools 
 
-[![Tools](https://skillicons.dev/icons?i=git,idea,kafka,linux,maven,mongodb,mysql,neovim,netlify,postman,vim,vscode&perline=6)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,idea,kafka,linux,maven,mongodb,mysql,neovim,netlify,postman,vim,vscode,docker,kubernetes&perline=6)](https://skillicons.dev)
 
 <!-- <details> -->
    <h3>Things I use to get my stuff done</h3>
@@ -85,10 +85,9 @@ Let's create something extraordinary, one line of code at a time!
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dipeshsingh253&theme=gotham&hide_border=false" /></td>  
   </tr>
 </table>
-
+<!--
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipeshsingh253&theme=gotham&hide_border=false" />
-
-##
+-->
 
 <div align="center">
  
