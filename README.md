@@ -44,7 +44,7 @@ Let's create something extraordinary, one line of code at a time!
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=js,html,css,java,bash,typescript,python,go&perline=6)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,html,css,java,bash,typescript,python&perline=6)](https://skillicons.dev)
 
 
 ### Frameworks
