@@ -53,7 +53,7 @@ Let's create something extraordinary, one line of code at a time!
 
 ### Tools 
 
-[![Tools](https://skillicons.dev/icons?i=git,idea,kafka,linux,maven,mongodb,mysql,neovim,netlify,postman,vim,vscode,docker,kubernetes&perline=6)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,idea,kafka,linux,maven,mongodb,mysql,neovim,netlify,postman,vim,vscode,docker,kubernetes,gradle&perline=6)](https://skillicons.dev)
 
 <!-- <details> -->
    <h3>Things I use to get my stuff done</h3>
