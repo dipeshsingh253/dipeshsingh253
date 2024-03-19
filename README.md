@@ -29,6 +29,7 @@ Let's create something extraordinary, one line of code at a time!
  - ❓ &nbsp; Ask me about anything related to Programming, DSA and Linux. 🐧
  - ⚡ &nbsp; Fun fact: Programming is the closest thing we have to real magic. ✨💻
  - 📧 &nbsp; Want to connect with me? **<a href="https://dipesh.dev/contact/" target="_blank">Here you go !!!</a>**
+ - I use Arch btw 😎.
 
 <br>
 
@@ -56,6 +57,7 @@ Let's create something extraordinary, one line of code at a time!
 [![Tools](https://skillicons.dev/icons?i=git,idea,kafka,linux,maven,mongodb,mysql,neovim,netlify,postman,vim,vscode,docker,kubernetes,gradle&perline=6)](https://skillicons.dev)
 
 <!-- <details> -->
+<!--
    <h3>Things I use to get my stuff done</h3>
   	<ul>
    	    <li><b>OS:</b> Arch Linux</li>
@@ -67,6 +69,7 @@ Let's create something extraordinary, one line of code at a time!
  	    <li><b>Code Editor:</b> Idea and Vim/Neovim</li>
  	    <li><b>To Stay Updated:</b> Discord, Linkedin and Twitter.</li>
 	</ul>
+ -->
 <!-- </details> -->
 
 <br>
