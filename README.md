@@ -29,7 +29,7 @@ Let's create something extraordinary, one line of code at a time!
  - ❓ &nbsp; Ask me about anything related to Programming, DSA and Linux. 🐧
  - ⚡ &nbsp; Fun fact: Programming is the closest thing we have to real magic. ✨💻
  - 📧 &nbsp; Want to connect with me? **<a href="https://dipesh.dev/contact/" target="_blank">Here you go !!!</a>**
- - 😎 I use Arch btw.
+ - 😎 &nbsp; I use Arch btw.
 
 <br>
 
