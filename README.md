@@ -50,7 +50,7 @@ Let's create something extraordinary, one line of code at a time!
 
 ### Frameworks
 
-[![Frameworks](https://skillicons.dev/icons?i=hibernate,nodejs,spring,tailwind,react,angular&perline=6)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=hibernate,nodejs,spring,tailwind,bootstrap,react,angular,django&perline=6)](https://skillicons.dev)
 
 ### Tools 
 
