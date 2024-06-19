@@ -3,11 +3,12 @@
 # Hello Fellow < Developers/ >! 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dipesh-singh253/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://dipesh.dev/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/dipeshSingh_253)
-[![Discord Badge](https://img.shields.io/badge/-Discord-0088cc?style=flat-square&logo=Discord&logoColor=white&color=blueviolet)](http://discordapp.com/users/849913360144400404)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-0088cc?style=flat-square&logo=Gmail&logoColor=white&color=red)](mailto:sinhdipesh@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=X&logoColor=white)](https://twitter.com/dipeshSingh_253)
+[![Discord Badge](https://img.shields.io/badge/-Discord-0088cc?style=flat-square&logo=Discord&logoColor=white&color=blueviolet)](http://discordapp.com/users/849913360144400404)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://dipesh.dev/)
 [![Leetcode Badge](https://img.shields.io/badge/-Leetcode-0088cc?style=flat-square&logo=Leetcode&logoColor=white&color=brown)](https://leetcode.com/sinhdipesh/)
+![](https://komarev.com/ghpvc/?username=dipeshsingh253&style=flat-square&label=Views)
 
 
 
@@ -15,7 +16,7 @@
 
 Hello, world! 🌎 I'm [Dipesh Singh](https://github.com/dipeshsingh253/), a coding enthusiast and lifelong learner 🚀.
 
-From building interactive websites that tell stories 📖, to tinkering with algorithms like a digital puzzle solver 🧩, I find joy in the art of coding. Exploring the realms of data science, web development, and beyond, I believe that every line of code has the potential to shape the future 🌟.
+From building interactive websites that tell stories 📖, to tinkering with algorithms like a digital puzzle solver 🧩, I find joy in the art of coding. Exploring the realms of machine learning, software and web development, and beyond, I believe that every line of code has the potential to shape the future 🌟.
 
 Let's create something extraordinary, one line of code at a time!
 
@@ -46,16 +47,16 @@ Let's create something extraordinary, one line of code at a time!
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=js,html,css,java,bash,typescript,python&perline=6)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,python,js,html,css,typescript,bash&perline=6)](https://skillicons.dev)
 
 
 ### Frameworks
 
-[![Frameworks](https://skillicons.dev/icons?i=hibernate,nodejs,spring,tailwind,bootstrap,react,angular,django&perline=6)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=spring,django,react,tailwind,bootstrap,hibernate,angular&perline=6)](https://skillicons.dev)
 
 ### Tools 
 
-[![Tools](https://skillicons.dev/icons?i=git,idea,kafka,linux,maven,mongodb,mysql,neovim,netlify,postman,vim,vscode,docker,kubernetes,gradle&perline=6)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=linux,git,maven,kafka,docker,kubernetes,netlify,cloudflare,firebase,gcp,aws,postman,mongodb,mysql,gradle&perline=6)](https://skillicons.dev)
 
 <!--
 ## 🔨 My Tools:
@@ -120,7 +121,7 @@ Let's create something extraordinary, one line of code at a time!
 
 <br>
 
-## 📈 Stats
+## 📊 Stats
 
 <be>
 
