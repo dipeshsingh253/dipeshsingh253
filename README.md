@@ -57,6 +57,50 @@ Let's create something extraordinary, one line of code at a time!
 
 [![Tools](https://skillicons.dev/icons?i=git,idea,kafka,linux,maven,mongodb,mysql,neovim,netlify,postman,vim,vscode,docker,kubernetes,gradle&perline=6)](https://skillicons.dev)
 
+## 🔨 My Tools:
+
+### Languages
+
+**Expert Level:** </br>
+[![Languages Expert](https://skillicons.dev/icons?i=js,typescript,java&perline=6)](https://skillicons.dev)
+
+**Proficient Level:** </br>
+[![Languages Proficient](https://skillicons.dev/icons?i=html,css,python&perline=6)](https://skillicons.dev)
+
+**Comfortable Level:** </br>
+[![Languages Comfortable](https://skillicons.dev/icons?i=bash&perline=6)](https://skillicons.dev)
+
+### Frameworks
+
+**Expert Level:** </br>
+[![Frameworks Expert](https://skillicons.dev/icons?i=react,nodejs&perline=6)](https://skillicons.dev)
+
+**Proficient Level:** </br>
+[![Frameworks Proficient](https://skillicons.dev/icons?i=hibernate,spring,tailwind,bootstrap,angular&perline=6)](https://skillicons.dev)
+
+**Comfortable Level:** </br>
+[![Frameworks Comfortable](https://skillicons.dev/icons?i=django&perline=6)](https://skillicons.dev)
+
+### Tools
+
+**Expert Level:** </br>
+[![Tools Expert](https://skillicons.dev/icons?i=git,vscode,docker&perline=6)](https://skillicons.dev)
+
+**Proficient Level:** </br>
+[![Tools Proficient](https://skillicons.dev/icons?i=linux,mysql,postman&perline=6)](https://skillicons.dev)
+
+**Comfortable Level:** </br>
+[![Tools Comfortable](https://skillicons.dev/icons?i=kafka,mongodb,neovim,netlify,vim,idea,maven,gradle,kubernetes&perline=6)](https://skillicons.dev)
+
+
+## 🔨 My Tools:
+
+| Tools\Levels | Expert | Proficient | Comfortable |
+|--------------|--------|------------|-------------|
+| **Languages**| ![JS](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Java](https://skillicons.dev/icons?i=java) | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Python](https://skillicons.dev/icons?i=python) | ![Bash](https://skillicons.dev/icons?i=bash) |
+| **Frameworks**| ![React](https://skillicons.dev/icons?i=react) ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![Hibernate](https://skillicons.dev/icons?i=hibernate) ![Spring](https://skillicons.dev/icons?i=spring) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Angular](https://skillicons.dev/icons?i=angular) | ![Django](https://skillicons.dev/icons?i=django) |
+| **Tools**    | ![Git](https://skillicons.dev/icons?i=git) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Docker](https://skillicons.dev/icons?i=docker) | ![Linux](https://skillicons.dev/icons?i=linux) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Postman](https://skillicons.dev/icons?i=postman) | ![Kafka](https://skillicons.dev/icons?i=kafka) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Neovim](https://skillicons.dev/icons?i=neovim) ![Netlify](https://skillicons.dev/icons?i=netlify) ![Vim](https://skillicons.dev/icons?i=vim) ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea) ![Maven](https://skillicons.dev/icons?i=maven) ![Gradle](https://skillicons.dev/icons?i=gradle) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) |
+
 <!-- <details> -->
 <!--
    <h3>Things I use to get my stuff done</h3>
