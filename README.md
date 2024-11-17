@@ -24,7 +24,7 @@ Let's create something extraordinary, one line of code at a time!
 
 ## 💫 More About Me:
 
- - 👨‍💼 &nbsp; I'm currently working as a Software Engineer at **<a href="https://logwintech.com/" target="_blank">LogwinTech</a>**
+ - 👨‍💼 &nbsp; I'm currently working as a Software Engineer at **<a href="https://www.blursday.wtf/" target="_blank">Blursday</a>**
  - 💻 &nbsp; All of my projects are available at **<a href="https://dipesh.dev/project/" target="_blank">My Portfolio</a>**
  - 🔭 &nbsp; I’m currently learning Django, you can find my learnings on **<a href="https://github.com/dipeshsingh253/punkrecords" target="_blank">PunkRecords</a>**
  - ❓ &nbsp; Ask me about anything related to Programming, DSA and Linux. 🐧
