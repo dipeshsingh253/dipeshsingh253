@@ -24,7 +24,7 @@ Let's create something extraordinary, one line of code at a time!
 
 ## 💫 More About Me:
 
- - 👨‍💼 &nbsp; I'm currently working as a Software Engineer at **<a href="https://www.blursday.wtf/" target="_blank">Blursday</a>**
+ - 👨‍💼 &nbsp; I'm currently working as a Software Engineer at **<a href="https://www.zivy.app/" target="_blank">Zivy</a>**
  - 💻 &nbsp; All of my projects are available at **<a href="https://dipesh.dev/project/" target="_blank">My Portfolio</a>**
  - 🔭 &nbsp; I’m currently learning Django, you can find my learnings on **<a href="https://github.com/dipeshsingh253/punkrecords" target="_blank">PunkRecords</a>**
  - ❓ &nbsp; Ask me about anything related to Programming, DSA and Linux. 🐧
@@ -47,16 +47,16 @@ Let's create something extraordinary, one line of code at a time!
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=java,python,js,html,css,typescript,bash&perline=6)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,python,js,php,html,css,typescript,bash&perline=6)](https://skillicons.dev)
 
 
 ### Frameworks
 
-[![Frameworks](https://skillicons.dev/icons?i=spring,django,react,tailwind,bootstrap,hibernate,angular&perline=6)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=spring,django,fastapi,laravel,react,tailwind,bootstrap,hibernate,angular&perline=6)](https://skillicons.dev)
 
 ### Tools 
 
-[![Tools](https://skillicons.dev/icons?i=linux,git,maven,kafka,docker,kubernetes,netlify,cloudflare,firebase,gcp,aws,postman,mongodb,mysql,gradle&perline=6)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=linux,git,aws,docker,kubernetes,postman,mongodb,mysql,netlify,cloudflare,firebase,gcp,maven,kafka,gradle&perline=6)](https://skillicons.dev)
 
 <!--
 ## 🔨 My Tools:
