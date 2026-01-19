@@ -25,4 +25,4 @@ I don’t care about the tech stack.
 I care about **getting meaningful work done** — on time, with quality.
 Dogma second.
 
-Say hi → [https://x.com/dipeshdotdev](https://x.com/dipeshdotdev)
+Say hi → [x.com/dipeshdotdev](https://x.com/dipeshdotdev)
