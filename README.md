@@ -6,6 +6,10 @@ I build what I feel like building. It makes me happy.
 
 * **Zhiro** — a modern read-it-later app → [zhiro.in](https://zhiro.in)
 
+## Projects
+
+* **QuickDevTools** — a set of quick developer tools → [quickdevtools.xyz](https://quickdevtools.xyz)
+
 ### Where I work
 
 * **TradeBrains — SDE2 :**
